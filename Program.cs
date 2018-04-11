@@ -17,7 +17,8 @@ namespace PrimeiroGit
             valor2 = double.Parse(Console.ReadLine());
 
             resultado = valor1+valor2;
-            
+
+            Console.WriteLine("O resultado é:"+resultado);
 
 
     
